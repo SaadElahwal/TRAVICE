@@ -506,7 +506,7 @@
 .card--img {
   background-color: var(--secondary-color);
   padding: 6px;
-  transform: translate(325px, -540px);
+  transform: translate(320px, -460px);
 }
 
 .call-us {
