@@ -1041,3 +1041,12 @@ span {
 .me {
   color: var(--secondary-color);
 }
+
+.accordion .card {
+  background-color: #23283b;
+  color: #ffffff;
+}
+
+.accordion .card button {
+  color: #ffffff;
+}
